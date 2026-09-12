@@ -1,0 +1,21 @@
+# Output notebooks 
+*_op.ipynb
+
+Dataset/
+
+# Run artifacts
+*.pt
+*.pth
+split.json
+class_weights.json
+results.json
+yolo_ds/
+yolo_runs/
+runs/
+
+# Office / editor scratch
+~$*
+*.pptx
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
