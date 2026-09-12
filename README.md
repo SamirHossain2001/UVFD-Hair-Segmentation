@@ -18,6 +18,8 @@ data pipeline, split and evaluation protocol.
 <img alt="License" src="https://img.shields.io/badge/License-MIT-green">
 </p>
 
+<sub>CSE438 Digital Image Processing · <a href="https://github.com/SamirHossain2001">@SamirHossain2001</a></sub>
+
 </div>
 
 ---
@@ -460,7 +462,7 @@ one Kaggle session; the three together do not.
 ### Local
 
 ```bash
-git clone https://github.com/<your-username>/CSE438_Assignment.git
+git clone https://github.com/SamirHossain2001/CSE438_Assignment.git
 cd CSE438_Assignment
 
 pip install torch torchvision albumentations transformers ultralytics \
@@ -515,9 +517,15 @@ the notebook's working directory, because `find_artifact()` searches there and u
 - **SegFormer-B0:** NVIDIA, `nvidia/segformer-b0-finetuned-ade-512-512` via Hugging Face Transformers.
 - **YOLO26-sem:** Ultralytics.
 
+## Author
+
+**Samir Hossain** — [@SamirHossain2001](https://github.com/SamirHossain2001) ·
+[Kaggle](https://www.kaggle.com/samirhossain2001)
+
 ## License
 
-The code in this repository is released under the [MIT License](LICENSE).
+The code in this repository is released under the [MIT License](LICENSE),
+Copyright (c) 2026 Samir Hossain.
 
 It covers the notebooks and the figures in `assets/`. Dependencies keep their own terms:
 
